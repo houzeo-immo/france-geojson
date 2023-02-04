@@ -1,6 +1,6 @@
 # France GeoJSON
 
-L'objectif de ce repo est de centraliser des fichiers JSON avec la liste des régions, départements et communes avec leurs spécificitées et leur tracé au format GeoJSON.
+L'objectif de ce repo est de centraliser des fichiers JSON avec la liste des régions, départements et communes avec leurs spécificitées et leurs tracés simplifiés au format GeoJSON.
 
 
 ## Caractéristiques
@@ -16,15 +16,15 @@ Les liens de téléchargement sont disponibles ci-dessous :
 
 ### Régions
 
-- [Télécharger le fichier (.json: 220 Ko)]()
+- [Télécharger le fichier (.json: 220 Ko)](https://github.com/houzeo-immo/france-geojson/raw/main/regions.json)
 
 ### Départements
 
-- [Télécharger le fichier (.json: 555 Ko)]()
+- [Télécharger le fichier (.json: 555 Ko)](https://github.com/houzeo-immo/france-geojson/raw/main/departements.json)
 
 ### Communes
 
-- [Télécharger le fichier (.json: 18.3 Mo)]()
+- [Télécharger le fichier (.json: 18.3 Mo)](https://github.com/houzeo-immo/france-geojson/raw/main/communes.json)
 
 
 ## Authors
